@@ -19,4 +19,4 @@ jobs:
         mvn test -B
     - name: Upload to CoPilot
       if: github.event_name == 'push' || github.event_name == 'pull_request'
-      run: bash <(curl -s https://copilot-valid.blackducksoftware.com/ci/githubactions/scripts/upload)
+      run: bash <(curl -s https://copilot-test.blackducksoftware.com/ci/githubactions/scripts/upload)
