@@ -2,7 +2,7 @@
 
 [![Actions](https://github.com/BlackDuckCoPilot/example-maven-githubactions/workflows/Java%20CI/badge.svg)](https://github.com/BlackDuckCoPilot/example-maven-githubactions/actions?workflow=Java+CI) [![Black Duck Security Risk](https://copilot-valid.blackducksoftware.com/github/repos/BlackDuckCoPilot/example-maven-githubactions/branches/validation/badge-risk.svg)](https://copilot-valid.blackducksoftware.com/github/repos/BlackDuckCoPilot/example-maven-githubactions/branches/validation)
 
-Shows a working setup for using Black Duck CoPilot to analyze the risk of project dependencies
+Shows a working setup for using Synopsys CoPilot to analyze the risk of project dependencies
 
 ## GitHub CI/CD Setup
 
